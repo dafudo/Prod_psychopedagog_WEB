@@ -35,7 +35,7 @@ Domenę produkcyjną podepnij dopiero podczas przełączania starej witryny. Ten
 
 To etap zapowiadający projekt. Nie zawiera kont użytkowników, koszyka, subskrypcji, płatności, prawdziwego katalogu produktów, systemu e-learningowego ani generowania dokumentów na serwerze. Przycisk druku wyświetla okno drukowania wyłącznie przykładowej karty. Nie należy przedstawiać tej wersji jako działającego sklepu.
 
-Znak TPP w `assets/tpp-mark.svg` jest **uproszczonym odtworzeniem graficznym** układu trzech okręgów T-P-P znanego z publicznych materiałów o Towarzystwie, a nie potwierdzonym plikiem oryginalnego identyfikatora. Przed ostateczną publikacją można zastąpić go oficjalnym plikiem wektorowym organizacji.
+Logo w `assets/logo.png` zostało skopiowane z istniejącego repozytorium organizacji `PTPP/Prod_PSYCHOPEDAGOGEUORG` (plik `logo.png` na gałęzi `master`); to oryginalny pomarańczowy symbol, a nie rekonstrukcja.
 
 Dane stowarzyszenia: Towarzystwo Psychopedagogiczne, KRS 0000586474, Bolesławiec, ul. Warszawska 1/3, biuro@psychopedagog.org. Zweryfikowano ze stroną organizacji i publicznymi rejestrami (listopad 2026).
 
